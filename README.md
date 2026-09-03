@@ -45,7 +45,7 @@ Complete instructions from creating a fresh mamba environment to a working `impo
 Clone `libpyflexiv` together with the pinned `flexiv_rdk` submodule:
 
 ```bash
-git clone --recurse-submodules https://github.com/Vertax42/libpyflexiv.git
+git clone --recurse-submodules https://github.com/XenseRobotics-AI/libpyflexiv.git
 cd libpyflexiv
 ```
 
